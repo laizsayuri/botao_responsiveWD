@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    background-color: #9664c5;
+    color: #faf7ec;
+    border: 1px solid #973e97;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a:hover{
+    background-color: #faf7ec;
+    color: #9664c5;
+}
+div{
+    margin: 50px;
+}
